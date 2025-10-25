@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  /* background-color: brown; */
+  /* gap: 8px; */
+}
+.container {
+  border: 2px solid black;
+  padding: 5px;
+}
+.component {
+  width: 500px;
+  height: 200px;
+  border: 2px solid black;
+}
