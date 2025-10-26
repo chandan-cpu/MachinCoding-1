@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container-content {
+  border: 2px solid black;
+  width: 100px;
+  /* height: 300px; */
+}
+.container-content img {
+  width: 80%;
+}
+.numbering {
+  border: 2px solid black;
+}
+.active {
+  background-color: red;
+}
