@@ -4,11 +4,12 @@
 }
 .container-content {
   border: 2px solid black;
-  width: 100px;
+  width: 20vw;
+  margin: 6px;
   /* height: 300px; */
 }
 .container-content img {
-  width: 80%;
+  width: 100%;
 }
 .numbering {
   border: 2px solid black;
